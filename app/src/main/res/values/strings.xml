@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LogginTable</string>
+    <!-- ES -->
+    <string name="user_labelES">Usuario</string>
+    <string name="pass_labelES">Contraseña</string>
+    <string name="btnok_ES">OK</string>
+    <string name="btnCancel_ES">Cancelar</string>
+    <string name="chbremember_ES">Recordar</string>
+</resources>
